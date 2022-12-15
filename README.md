@@ -22,5 +22,6 @@ It can be relied upon for all the general calculations needed in everyday life a
 
 ## Screenshots
 
-![App Screenshot](https://github.com/shikha1304/digital-calculator/blob/master/eb4d99fd38a33d4f30aa43169c8ecc4cb67ab895/Screenshot%20.png?raw=true)
+
+![Screenshot](https://user-images.githubusercontent.com/68044736/207938790-bef0f3d3-93d0-4ed5-bf52-f1f82bade372.png)
 
