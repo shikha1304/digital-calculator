@@ -4,6 +4,10 @@
 This is a Digital Calculator designed to be responsive to the environment.
 It can be relied upon for all the general calculations needed in everyday life as well as complex Scietific Calculations.
 
+## A Representation of how it works
+
+
+https://user-images.githubusercontent.com/68044736/207941441-3c799060-f0ad-4286-b065-0ec8dc2a1493.mp4
 
 
 ## Built With
